@@ -34,7 +34,7 @@ jupyter notebook
 
 And use the resulting URL on 127.0.0.1 (`http://127.0.0.1:8888?token=...`). This URL will also work in the host operating system due to the port forwarding set up in the virtual machines.
 
-:warning: Be aware the submission system only uses the `reorg.py` and `cruncher.py` files.
+:warning: Be aware that the submission system only uses the `reorg.py` and `cruncher.py` files.
 
 ## Data set
 
